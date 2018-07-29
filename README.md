@@ -1,6 +1,6 @@
 # Privacy Friendly Sudoku
 
-[<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/repository/browse/?fdfilter=sudoku&fdid=org.secuso.privacyfriendlysudoku)<a href="https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlysudoku"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>
+
 
 Privacy Friendly Sudoku is a logic based game and belongs to the group of Privacy Friendly Apps developed by Technische Universität Darmstadt, Germany.
 
